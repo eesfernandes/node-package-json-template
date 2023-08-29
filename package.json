@@ -1,0 +1,13 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "countries.js",
+  "type": "module",
+  "scripts": {
+    "start": "clear && node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
